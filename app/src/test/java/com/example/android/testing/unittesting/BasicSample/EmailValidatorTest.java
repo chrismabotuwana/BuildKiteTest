@@ -30,9 +30,9 @@ public class EmailValidatorTest {
 
     @Test
     public void emailValidator_CorrectEmailSimple_ReturnsTrue() {
-        System.out.println("fake change");
-        assertTrue(EmailValidator.isValidEmail("name@email.com"));
-        //assertTrue(false);
+//        System.out.println("fake change");
+//        assertTrue(EmailValidator.isValidEmail("name@email.com"));
+        assertTrue(false);
 
     }
 
